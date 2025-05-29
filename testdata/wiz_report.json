@@ -1,6 +1,4 @@
-// testdata/wiz_report.json
-// This is a placeholder for a sample Wiz JSON vulnerability report.
-// This structure needs to be finalized based on an actual Wiz report.
+
 {
   "os": {
     "name": "Debian",
