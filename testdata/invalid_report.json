@@ -1,0 +1,18 @@
+
+{
+  "invalid_field": "some_value",
+  "os": {
+    "name": "InvalidOS",
+    "version": "1.0"
+  },
+  "vulnerabilities": "not_an_array"
+}
+
+{
+  "invalid_field": "some_value",
+  "os": {
+    "name": "InvalidOS",
+    "version": "1.0"
+  },
+  "vulnerabilities": "not_an_array"
+}
