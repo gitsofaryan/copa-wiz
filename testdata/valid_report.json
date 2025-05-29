@@ -1,0 +1,20 @@
+
+{
+  "os": {
+    "name": "Ubuntu",
+    "version": "22.04"
+  },
+  "vulnerabilities": [
+    {
+      "packageName": "systemd",
+      "installedVersion": "249.11-0ubuntu3.10",
+      "fixedVersion": "249.11-0ubuntu3.11",
+      "cveId": "CVE-2023-XXXX"
+    }
+  ],
+  "metadata": {
+    "scanner": "wiz",
+    "reportGeneratedDate": "2025-05-29T18:05:00Z",
+    "imageName": "another-image:v1.0"
+  }
+}
