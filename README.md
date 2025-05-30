@@ -12,7 +12,7 @@ Otherwise, install using the CLI:
 
 ```bash
 # Install the binary (replace with actual release URL once available)
-curl -sL [https://github.com/gitsofaryan/copa-wiz/releases/latest/download/copa-wiz](https://github.com/gitsofaryan/copa-wiz/releases/latest/download/copa-wiz) -o copa-wiz
+curl -sL https://github.com/gitsofaryan/copa-wiz/releases/latest/download/copa-wiz -o copa-wiz
 ```
 
 ## Example Usage
