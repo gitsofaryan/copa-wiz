@@ -1,5 +1,5 @@
-(* copa-wiz/Makefile *)
-(* This Makefile defines the build process for the copa-wiz plugin binary. *)
+# (* copa-wiz/Makefile *)
+# (* This Makefile defines the build process for the copa-wiz plugin binary. *)
 CLI_BINARY=copa-wiz
 
 .PHONY: all build
