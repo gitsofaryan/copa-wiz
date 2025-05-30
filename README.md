@@ -6,12 +6,11 @@ Learn more about Copacetic's scanner plugins [here](https://project-copacetic.gi
 
 ## Installation
 
-You can download the latest and previous versions of `copa-wiz` from the GitHub releases page (once available). Make sure to add it to your `PATH` environment variable.
+You can download the latest and previous versions of `copa-wiz` from the GitHub releases page. Make sure to add it to your `PATH` environment variable.
 
 Otherwise, install using the CLI:
 
 ```bash
-# Install the binary
 curl -sL https://github.com/gitsofaryan/copa-wiz/releases/latest/download/copa-wiz -o copa-wiz
 ```
 
