@@ -11,7 +11,7 @@ You can download the latest and previous versions of `copa-wiz` from the GitHub 
 Otherwise, install using the CLI:
 
 ```bash
-# Install the binary (replace with actual release URL once available)
+# Install the binary
 curl -sL https://github.com/gitsofaryan/copa-wiz/releases/latest/download/copa-wiz -o copa-wiz
 ```
 
